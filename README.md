@@ -8,8 +8,8 @@ Here the input of the students who attended event will be taken in the form of t
 1.Clone the Repo and install the requirements
 
 ```
-git clone https://github.com/dscuol/dsc-cui-certificate-generator.git
-cd dsc-cui-certificate-generator
+git clone https://github.com/hipstermartin/CertificateGenerator.git
+cd CertificateGenerator
 pip install -r requirements.txt
 ```
 
